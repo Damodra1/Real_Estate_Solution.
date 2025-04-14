@@ -6,8 +6,7 @@ Real Estate Solution is a comprehensive platform that leverages modern data scie
 
 Experience the app online by clicking on the link below:
 
-[Open App on Streamlit] https://share.streamlit.io/Damodra1/Real_Estate_Solution](https://realestatesolution-rcc5qddf784b3yl96qfpms.streamlit.app/)  
-*(Note: Update the URL if your deployment link changes or if you host the app elsewhere.)*
+[Open App on Streamlit] https://share.streamlit.io/Damodra1/Real_Estate_Solution](https://realestatesolution-rcc5qddf784b3yl96qfpms.streamlit.app/)
 
 ## Features
 
